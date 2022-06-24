@@ -1,0 +1,51 @@
+Welcome to Game Of Life. List of Options: 
+1 to continue...
+2 to exit.
+##################
+you choose to continue the Game OF Life.
+Enter number of initial alive cells in universe: next generation alive cells 
+1 1
+1 2
+2 1
+2 2
+
+Welcome to Game Of Life. List of Options: 
+1 to continue...
+2 to exit.
+##################
+you choose to continue the Game OF Life.
+Enter number of initial alive cells in universe: next generation alive cells 
+0 1
+0 2
+1 0
+1 2
+2 1
+
+Welcome to Game Of Life. List of Options: 
+1 to continue...
+2 to exit.
+##################
+you choose to continue the Game OF Life.
+Enter number of initial alive cells in universe: next generation alive cells 
+0 1
+1 1
+2 1
+
+Welcome to Game Of Life. List of Options: 
+1 to continue...
+2 to exit.
+##################
+you choose to continue the Game OF Life.
+Enter number of initial alive cells in universe: next generation alive cells 
+0 2
+1 1
+1 4
+2 1
+2 4
+3 3
+
+Welcome to Game Of Life. List of Options: 
+1 to continue...
+2 to exit.
+##################
+you choose to exit the Game OF Life.
